@@ -1,0 +1,5 @@
+.text {
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
